@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Michael P. Heinl</title>
+    <link>https://heinl.net/publication_types/7/</link>
+    <description>Recent content in 7 on Michael P. Heinl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://heinl.net/impressum&#39;&gt;Impressum/Legal Notice&lt;/a&gt; &amp;middot; &amp;copy; {year} Michael P. Heinl</copyright>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://heinl.net/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Metric to Assess the Trustworthiness of Certificate Authorities</title>
+      <link>https://heinl.net/publication/mathesis-2018/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/mathesis-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Security: Creation of A Virtual Learning Environment</title>
+      <link>https://heinl.net/publication/bathesis-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/bathesis-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

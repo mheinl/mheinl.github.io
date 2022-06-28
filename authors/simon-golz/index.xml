@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Gölz on Michael P. Heinl</title>
+    <link>https://heinl.net/authors/simon-golz/</link>
+    <description>Recent content in Simon Gölz on Michael P. Heinl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://heinl.net/impressum&#39;&gt;Impressum/Legal Notice&lt;/a&gt; &amp;middot; &amp;copy; {year} Michael P. Heinl</copyright>
+    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://heinl.net/authors/simon-golz/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Comparative Security Analysis of the German Federal Postal Voting Process</title>
+      <link>https://heinl.net/publication/postal-voting-2021/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/postal-voting-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trustworthy Elections? Eine Übersicht aktueller Verfahren &amp; Probleme von Internetwahlen in unkontrollierten Umgebungen</title>
+      <link>https://heinl.net/publication/trustworthy-elections-de-2019/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/trustworthy-elections-de-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
