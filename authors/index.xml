@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#39;https://heinl.net/impressum&#39;&gt;Impressum/Legal Notice&lt;/a&gt; &amp;middot; &amp;copy; {year} Michael P. Heinl</copyright>
-    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://heinl.net/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,36 @@
     <item>
       <title>**Michael P. Heinl**</title>
       <link>https://heinl.net/authors/michael-p.-heinl/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://heinl.net/authors/michael-p.-heinl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christoph Bösch</title>
+      <link>https://heinl.net/authors/christoph-bosch/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/christoph-bosch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simon Gölz</title>
+      <link>https://heinl.net/authors/simon-golz/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/simon-golz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Michael Heinl**</title>
+      <link>https://heinl.net/authors/michael-heinl/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/michael-heinl/</guid>
       <description></description>
     </item>
     
@@ -36,33 +63,6 @@
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://heinl.net/authors/maximilian-busch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Christoph Bösch</title>
-      <link>https://heinl.net/authors/christoph-bosch/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/authors/christoph-bosch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simon Gölz</title>
-      <link>https://heinl.net/authors/simon-golz/</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/authors/simon-golz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Michael Heinl**</title>
-      <link>https://heinl.net/authors/michael-heinl/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/authors/michael-heinl/</guid>
       <description></description>
     </item>
     
@@ -162,7 +162,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://heinl.net/authors/michael/</guid>
-      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;I&#39;m a security researcher with the Fraunhofer Institute for Applied and Integrated Security AISEC and a doctoral candidate of Technical University of Munich&#39;s Chair of IT&amp;nbsp;Security where I am also regularly involved in teaching.&lt;/p&gt;
+      <description>&lt;p style=&#39;text-align: justify;&#39;&gt;I&#39;m a security researcher with the Fraunhofer Institute for Applied and Integrated Security AISEC and a doctoral candidate of Technical University of Munich&#39;s Chair of IT&amp;nbsp;Security. I am regularly involved in teaching both at TUM and as lecturer for digital security at Heilbronn University of Applied Sciences.&lt;/p&gt;
 
 &lt;p style=&#39;text-align: justify;&#39;&gt;My research interests are generally in the area of security and trustworthiness of critical systems and processes, such as the ICT supply chain (particularly in industrial environments) or remote voting technologies, as well as deriving corresponding implications for economy, society, and policy. Due to its holistic approach as well as regular collaborations with researchers from different application domains, my research is inherently multidisciplinary.&lt;/p&gt;
 
