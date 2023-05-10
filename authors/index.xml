@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#39;https://heinl.net/impressum&#39;&gt;Impressum/Legal Notice&lt;/a&gt; &amp;middot; &amp;copy; {year} Michael P. Heinl</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://heinl.net/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,99 @@
     <item>
       <title>**Michael P. Heinl**</title>
       <link>https://heinl.net/authors/michael-p.-heinl/</link>
-      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://heinl.net/authors/michael-p.-heinl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Giehl</title>
+      <link>https://heinl.net/authors/alexander-giehl/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/alexander-giehl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximilian Pursche</title>
+      <link>https://heinl.net/authors/maximilian-pursche/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/maximilian-pursche/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nikolai Puch</title>
+      <link>https://heinl.net/authors/nikolai-puch/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/nikolai-puch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian N. Peters</title>
+      <link>https://heinl.net/authors/sebastian-n.-peters/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/sebastian-n.-peters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christian H. Schnuck</title>
+      <link>https://heinl.net/authors/christian-h.-schnuck/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/christian-h.-schnuck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heiko Roßnagel</title>
+      <link>https://heinl.net/authors/heiko-ro%C3%9Fnagel/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/heiko-ro%C3%9Fnagel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirko Ross</title>
+      <link>https://heinl.net/authors/mirko-ross/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/mirko-ross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Philipp Fuxen</title>
+      <link>https://heinl.net/authors/philipp-fuxen/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/philipp-fuxen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raphael Yahalom</title>
+      <link>https://heinl.net/authors/raphael-yahalom/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/raphael-yahalom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>**Michael Heinl**</title>
+      <link>https://heinl.net/authors/michael-heinl/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/michael-heinl/</guid>
       <description></description>
     </item>
     
@@ -36,24 +126,6 @@
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://heinl.net/authors/simon-golz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**Michael Heinl**</title>
-      <link>https://heinl.net/authors/michael-heinl/</link>
-      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/authors/michael-heinl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexander Giehl</title>
-      <link>https://heinl.net/authors/alexander-giehl/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/authors/alexander-giehl/</guid>
       <description></description>
     </item>
     
