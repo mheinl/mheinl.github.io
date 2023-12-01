@@ -7,10 +7,19 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#39;https://heinl.net/impressum&#39;&gt;Impressum/Legal Notice&lt;/a&gt; &amp;middot; &amp;copy; {year} Michael P. Heinl</copyright>
-    <lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://heinl.net/authors/michael-p.-heinl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cybersecurity as a Service</title>
+      <link>https://heinl.net/publication/csaas-2023/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/csaas-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>From Standard to Practice: Towards ISA/IEC 62443-conform Public Key Infrastructures</title>
