@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#39;https://heinl.net/impressum&#39;&gt;Impressum/Legal Notice&lt;/a&gt; &amp;middot; &amp;copy; {year} Michael P. Heinl</copyright>
-    <lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://heinl.net/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,63 @@
     <item>
       <title>**Michael P. Heinl**</title>
       <link>https://heinl.net/authors/michael-p.-heinl/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://heinl.net/authors/michael-p.-heinl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander Giehl</title>
+      <link>https://heinl.net/authors/alexander-giehl/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/alexander-giehl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andy Ludwig</title>
+      <link>https://heinl.net/authors/andy-ludwig/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/andy-ludwig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian N. Peters</title>
+      <link>https://heinl.net/authors/sebastian-n.-peters/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/sebastian-n.-peters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stefan Tatschner</title>
+      <link>https://heinl.net/authors/stefan-tatschner/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/stefan-tatschner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Newe</title>
+      <link>https://heinl.net/authors/thomas-newe/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/thomas-newe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Specht</title>
+      <link>https://heinl.net/authors/tobias-specht/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/authors/tobias-specht/</guid>
       <description></description>
     </item>
     
@@ -40,38 +94,11 @@
     </item>
     
     <item>
-      <title>Stefan Tatschner</title>
-      <link>https://heinl.net/authors/stefan-tatschner/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/authors/stefan-tatschner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sven Plaga</title>
       <link>https://heinl.net/authors/sven-plaga/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://heinl.net/authors/sven-plaga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Thomas Newe</title>
-      <link>https://heinl.net/authors/thomas-newe/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/authors/thomas-newe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alexander Giehl</title>
-      <link>https://heinl.net/authors/alexander-giehl/</link>
-      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/authors/alexander-giehl/</guid>
       <description></description>
     </item>
     
@@ -90,15 +117,6 @@
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://heinl.net/authors/nikolai-puch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sebastian N. Peters</title>
-      <link>https://heinl.net/authors/sebastian-n.-peters/</link>
-      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/authors/sebastian-n.-peters/</guid>
       <description></description>
     </item>
     

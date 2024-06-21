@@ -4,18 +4,87 @@
   
   <url>
     <loc>https://heinl.net/authors/michael-p.-heinl/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://heinl.net/publication_types/6/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <loc>https://heinl.net/publication_types/1/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/alexander-giehl/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/andy-ludwig/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication/minerva-2024/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication_types/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication/</loc>
+    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication/parseval-2020/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/sebastian-n.-peters/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/stefan-tatschner/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/thomas-newe/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/tobias-specht/</loc>
+    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication_types/6/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -32,30 +101,7 @@
   </url>
   
   <url>
-    <loc>https://heinl.net/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://heinl.net/authors/patrizia-heinl/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/publication_types/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/publication/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/stefan-tatschner/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -63,24 +109,6 @@
   <url>
     <loc>https://heinl.net/authors/sven-plaga/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/thomas-newe/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/publication_types/1/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/alexander-giehl/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,12 +125,6 @@
   
   <url>
     <loc>https://heinl.net/authors/nikolai-puch/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/sebastian-n.-peters/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
