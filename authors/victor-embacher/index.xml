@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Embacher on Michael P. Heinl</title>
+    <link>https://heinl.net/authors/victor-embacher/</link>
+    <description>Recent content in Victor Embacher on Michael P. Heinl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#39;https://heinl.net/impressum&#39;&gt;Impressum/Legal Notice&lt;/a&gt; &amp;middot; &amp;copy; {year} Michael P. Heinl</copyright>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://heinl.net/authors/victor-embacher/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BT²X: Multi-Leveled Binary Transparency to Protect the Software Supply Chain of Operational Technology</title>
+      <link>https://heinl.net/publication/bt2x-2024/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/bt2x-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmuFlex: A Flexible OT Testbed for Security Experiments with OPC UA</title>
+      <link>https://heinl.net/publication/emuflex-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/emuflex-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

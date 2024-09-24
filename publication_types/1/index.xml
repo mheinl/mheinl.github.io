@@ -7,10 +7,46 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#39;https://heinl.net/impressum&#39;&gt;Impressum/Legal Notice&lt;/a&gt; &amp;middot; &amp;copy; {year} Michael P. Heinl</copyright>
-    <lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://heinl.net/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BT²X: Multi-Leveled Binary Transparency to Protect the Software Supply Chain of Operational Technology</title>
+      <link>https://heinl.net/publication/bt2x-2024/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/bt2x-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ParsEval: Evaluation of Parsing Behavior using Real-world Out-in-the-wild X.509 Certificates</title>
+      <link>https://heinl.net/publication/parseval-2024/</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/parseval-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gateway to the Danger Zone: Secure and Authentic Remote Reset in Machine Safety</title>
+      <link>https://heinl.net/publication/poqsikom-2024/</link>
+      <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/poqsikom-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EmuFlex: A Flexible OT Testbed for Security Experiments with OPC UA</title>
+      <link>https://heinl.net/publication/emuflex-2024/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://heinl.net/publication/emuflex-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MINERVA: Secure Collaborative Machine Tool Data Utilization Leveraging Confidentiality-Protecting Technologies</title>
@@ -18,15 +54,6 @@
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://heinl.net/publication/minerva-2024/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ParsEval: Evaluation of Parsing Behavior using Real-world Out-in-the-wild X. 509 Certificates</title>
-      <link>https://heinl.net/publication/parseval-2024/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://heinl.net/publication/parseval-2024/</guid>
       <description></description>
     </item>
     

@@ -1,35 +1,125 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://heinl.net/authors/michael-p.-heinl/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://heinl.net/publication_types/1/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication/bt2x-2024/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication_types/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/victor-embacher/</loc>
+    <lastmod>2024-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication/parseval-2024/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/sebastian-n.-peters/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/stefan-tatschner/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/thomas-newe/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/tobias-specht/</loc>
+    <lastmod>2024-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/aliza-maftun/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/publication/poqsikom-2024/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/marcel-ely-gomes/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/mykolai-protsenko/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/nikolai-puch/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/philipp-zieris/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/thomas-zeschg/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/thorsten-larsen-vefring/</loc>
+    <lastmod>2024-06-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/alexander-giehl/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/andy-ludwig/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://heinl.net/authors/</loc>
+    <loc>https://heinl.net/publication/emuflex-2024/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -38,55 +128,8 @@
   </url>
   
   <url>
-    <loc>https://heinl.net/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/publication_types/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/publication/</loc>
-    <lastmod>2024-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/publication/parseval-2024/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/sebastian-n.-peters/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/stefan-tatschner/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/thomas-newe/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/tobias-specht/</loc>
-    <lastmod>2024-05-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://heinl.net/publication_types/6/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -97,19 +140,16 @@
   <url>
     <loc>https://heinl.net/authors/john-morris/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/patrizia-heinl/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/sven-plaga/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -120,25 +160,16 @@
   <url>
     <loc>https://heinl.net/authors/maximilian-pursche/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/nikolai-puch/</loc>
-    <lastmod>2023-09-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/christian-h.-schunck/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/heiko-ro%C3%9Fnagel/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -149,37 +180,31 @@
   <url>
     <loc>https://heinl.net/authors/mirko-ross/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/philipp-fuxen/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/raphael-yahalom/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/rudolf-hackenberg/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/michael-heinl/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/publication_types/0/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -190,7 +215,6 @@
   <url>
     <loc>https://heinl.net/authors/christoph-bosch/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -201,7 +225,6 @@
   <url>
     <loc>https://heinl.net/authors/simon-golz/</loc>
     <lastmod>2022-07-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -217,7 +240,6 @@
   <url>
     <loc>https://heinl.net/authors/maximilian-busch/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -233,7 +255,6 @@
   <url>
     <loc>https://heinl.net/authors/lukas-broghammer/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -254,25 +275,21 @@
   <url>
     <loc>https://heinl.net/authors/lukas-graif/</loc>
     <lastmod>2020-08-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/publication_types/4/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/hannah-wester/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/peter-schneider/</loc>
     <lastmod>2020-08-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -288,7 +305,6 @@
   <url>
     <loc>https://heinl.net/authors/frank-kargl/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -299,7 +315,6 @@
   <url>
     <loc>https://heinl.net/authors/norbert-wiedermann/</loc>
     <lastmod>2019-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -310,24 +325,26 @@
   <url>
     <loc>https://heinl.net/authors/bo-yu/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/authors/duminda-wijesekera/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/publication_types/7/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/publication/mathesis-2018/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://heinl.net/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -343,18 +360,11 @@
   <url>
     <loc>https://heinl.net/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://heinl.net/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -375,13 +385,11 @@
   <url>
     <loc>https://heinl.net/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -397,19 +405,16 @@
   <url>
     <loc>https://heinl.net/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://heinl.net/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -433,7 +438,6 @@
   
   <url>
     <loc>https://heinl.net/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
